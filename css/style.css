@@ -361,7 +361,7 @@ ol {
 }
 
 .site-logo {
-	background: #2916e0;
+	background: #ffffff;
 	width: calc(100% - 90px);
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -717,7 +717,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .about-section .about-left {
-	background: #2916e0;
+	background: #323a41;
 	-ms-flex: 0 0 47%;
 	-webkit-box-flex: 0;
 	flex: 0 0 47%;
@@ -757,6 +757,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 	background-repeat: no-repeat;
 	background-size: inherit;
 	background-position: center center;
+	
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -772,9 +773,9 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .about-img img {
-	width: 515px;
+	width: 416px;
 	height: 515px;
-	border-radius: 50%;
+	/* border-radius: 50%; */
 	margin: 82px auto 50px;
 }
 
